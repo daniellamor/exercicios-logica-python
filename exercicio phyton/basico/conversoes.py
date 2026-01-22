@@ -1,0 +1,6 @@
+celsius = float(input("Digite a temperatura em Celsius: "))
+fahrenheit = (celsius * 9/5) + 32
+print("Fahrenheit:", fahrenheit)
+
+metros = float(input("Digite metros: "))
+print("Centímetros:", metros * 100)
